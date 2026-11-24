@@ -1,0 +1,6 @@
+{
+  "name": "Minaratul Huda — Admin & Content Studio",
+  "description": "Backend API, media storage server, and web-based Administrator Dashboard for managing Minaratul Huda Islamic teachings, audio, documents, Q&A moderation, notifications, and mobile app access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
