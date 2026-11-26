@@ -7,6 +7,7 @@ export const DEFAULT_MOBILE_ORIGINS = [
   'http://localhost:3000',
   'http://localhost:4173',
   'http://localhost:5173',
+  'https://localhost',
 ];
 
 export function normalizeOrigin(raw: string): string | null {
